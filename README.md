@@ -1,4 +1,4 @@
-Shukri Bakery
+NaturesBakery
 
 A simple, responsive bakery website built to demonstrate modern CSS layout techniques.
 
